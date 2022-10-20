@@ -1,7 +1,6 @@
 {
-	"name" : "John Smith",
+	"fulllName" : "John Smith",
 	"cardNumber" : "3294-6727-2694-9165",
-	"expiryMonth": "06",
-	"expiryYear" : "2019",
-	"cvv" : 731
+	"expiryDate": "06/22",
+	"cvc" : 731
 }
