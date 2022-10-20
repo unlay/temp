@@ -1,6 +1,6 @@
 {
-	"fulllName" : "John Smith",
-	"cardNumber" : "3294-6727-2694-9165",
-	"expiryDate": "1022",
+	"name" : "John Smith",
+	"card" : "3294-6727-2694-9165",
+	"date": "1022",
 	"cvc" : 731
 }
